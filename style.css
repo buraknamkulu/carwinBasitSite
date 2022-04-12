@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Oswald:wght@300&family=Poppins:wght@300;400;600;700&family=Roboto:wght@100;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+body{ 
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    color: aqua;
+}
+li{list-style-position: inside}
+
+img.dede{
+    border-radius: 50%;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+} 
+
+img.cınar{
+    border-radius: 50%;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+
+} 
+
+img.destan{
+    border-radius: 50%;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+} 
+
+img.arkaplan{
+
+    background-image: url(./imege/10.jpg);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #999;
+    object-fit: cover;
+    object-position: 50% 15%;
+
+    
+}
